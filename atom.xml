@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-04T07:51:24.563Z</updated>
+  <updated>2017-08-04T17:42:37.465Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想要的就只是渲染以后的结果吗</title>
+    <link href="http://yoursite.com/2017/08/05/%E6%83%B3%E8%A6%81%E7%9A%84%E5%B0%B1%E5%8F%AA%E6%98%AF%E6%B8%B2%E6%9F%93%E4%BB%A5%E5%90%8E%E7%9A%84%E7%BB%93%E6%9E%9C%E5%90%97/"/>
+    <id>http://yoursite.com/2017/08/05/想要的就只是渲染以后的结果吗/</id>
+    <published>2017-08-04T17:06:54.000Z</published>
+    <updated>2017-08-04T17:42:37.465Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/senkaon/Markdownres/70e94f145fba50d327633fc2d39e56fc93146d21/Photos/home.jpg" alt=""></p>
+<p><br></p>
+<p>受了照片和修图软件的影响，觉得好像每天生活在静态中的状态才是最如鱼得水的。选取最好的格局和方位，然后取其一角，贴出来也总是有光线漏进来的那完美的一刻：早上起来拉开窗帘的时候，泡完咖啡一下摆在电脑旁边的时候，抽出书和笔记本来正正好摊平的时候，洗完澡抱着瓶瓶罐罐走回到房间的时候。以外，组成生活绝大多数的时间都归档到了烦杂与琐碎，不安与焦虑，这些需要自己实实在在去填充的时间，反而浮在了表面，没有真正地投入进去了。<br><br><br><br><br>结果就是直到深夜大脑才有空间来回想该怎么办。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/senkaon/Markdownres/70e94f145fba50d327633fc2d39e56fc93146d21/Photos/home.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+    
+    </summary>
+    
+    
+      <category term="深夜食堂" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/"/>
+    
+  </entry>
   
   <entry>
     <title>A Modern Sappho</title>
