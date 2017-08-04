@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-04T06:28:52.852Z</updated>
+  <updated>2017-08-04T07:51:24.563Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,16 @@
     <link href="http://yoursite.com/2017/08/04/A%20Modern%20Sappho/"/>
     <id>http://yoursite.com/2017/08/04/A Modern Sappho/</id>
     <published>2017-08-03T16:32:58.000Z</published>
-    <updated>2017-08-04T06:28:52.852Z</updated>
+    <updated>2017-08-04T07:51:24.563Z</updated>
     
-    <content type="html"><![CDATA[<p align="center"> It was well with me once if I saw him: to-morrow<br>&emsp;&emsp; May bring one of the old happy moments again.<br><br> – Mathew Arnold</p>
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/senkaon/Markdownres/9ba314c3b84f9d258b74d96557cf86255feaa62a/Photos/blackandwhite.jpg" alt=""></p>
+<p><br></p>
+<p align="center"> It was well with me once if I saw him: to-morrow<br>&emsp;&emsp; May bring one of the old happy moments again.<br><br> – Mathew Arnold</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p align=&quot;center&quot;&gt; It was well with me once if I saw him: to-morrow&lt;br&gt;&amp;emsp;&amp;emsp; May bring one of the old happy moments again.&lt;br&gt;&lt;br&gt; – 
+      &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/senkaon/Markdownres/9ba314c3b84f9d258b74d96557cf86255feaa62a/Photos/blackandwhite.jpg&quot; alt=&quot;&quot;
     
     </summary>
     
