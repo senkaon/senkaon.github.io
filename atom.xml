@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-03T17:50:10.724Z</updated>
+  <updated>2017-08-04T06:28:52.852Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,17 @@
   
   <entry>
     <title>A Modern Sappho</title>
-    <link href="http://yoursite.com/2017/08/04/image-test/"/>
-    <id>http://yoursite.com/2017/08/04/image-test/</id>
+    <link href="http://yoursite.com/2017/08/04/A%20Modern%20Sappho/"/>
+    <id>http://yoursite.com/2017/08/04/A Modern Sappho/</id>
     <published>2017-08-03T16:32:58.000Z</published>
-    <updated>2017-08-03T17:50:10.724Z</updated>
+    <updated>2017-08-04T06:28:52.852Z</updated>
     
-    <content type="html"><![CDATA[<p align="center"> It was well with me once if I saw him: to-morrow<br>  May bring one of the old happy moments again.</p>]]></content>
+    <content type="html"><![CDATA[<p align="center"> It was well with me once if I saw him: to-morrow<br>&emsp;&emsp; May bring one of the old happy moments again.<br><br> – Mathew Arnold</p>
+]]></content>
     
     <summary type="html">
     
-      &lt;p align=&quot;center&quot;&gt; It was well with me once if I saw him: to-morrow&lt;br&gt;  May bring one of the old happy moments again.&lt;/p&gt;
+      &lt;p align=&quot;center&quot;&gt; It was well with me once if I saw him: to-morrow&lt;br&gt;&amp;emsp;&amp;emsp; May bring one of the old happy moments again.&lt;br&gt;&lt;br&gt; – 
     
     </summary>
     
@@ -40,15 +41,13 @@
     <link href="http://yoursite.com/2017/08/03/Same-Old-Day/"/>
     <id>http://yoursite.com/2017/08/03/Same-Old-Day/</id>
     <published>2017-08-03T07:39:57.000Z</published>
-    <updated>2017-08-03T07:56:26.581Z</updated>
+    <updated>2017-08-04T06:24:06.736Z</updated>
     
-    <content type="html"><![CDATA[<p>A Ha! Found you!</p>
-]]></content>
+    <content type="html"><![CDATA[<p align="center"> Aha! Found you! </p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;A Ha! Found you!&lt;/p&gt;
-
+      &lt;p align=&quot;center&quot;&gt; Aha! Found you! &lt;/p&gt;
     
     </summary>
     
