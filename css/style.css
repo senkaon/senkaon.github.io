@@ -237,6 +237,7 @@ var {
   border: 0;
   font-family: inherit;
   font-size: 100%;
+  font-size: 14px;
   font-style: inherit;
   font-weight: inherit;
   margin: 0;
@@ -269,7 +270,7 @@ h6 {
 p {
   font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", "Verdana", Arial, sans-serif;
   margin: 1em 0;
-  line-height: 2; }
+  line-height: 28px; }
 
 b,
 strong {
@@ -526,8 +527,8 @@ Content
 .container {
   max-width: 600px;
   margin: 0 auto;
-  padding-left: 40px;
-  padding-right: 40px; }
+  padding-left: 50px;
+  padding-right: 50px; }
 
 .inside-wrapper {
   max-width: 920px;
