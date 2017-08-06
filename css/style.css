@@ -237,7 +237,6 @@ var {
   border: 0;
   font-family: inherit;
   font-size: 100%;
-  font-size: 14px;
   font-style: inherit;
   font-weight: inherit;
   margin: 0;
@@ -269,9 +268,15 @@ h6 {
 
 p {
   font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", "Verdana", Arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 0.15em;
   color: #333;
   margin: 1em 0;
   line-height: 28px; }
+
+p::selection {
+  background: #b2d7fe;
+  text-decoration: underline; }
 
 b,
 strong {
@@ -816,7 +821,7 @@ Footer
     z-index: 29; }
 
 .entry-content {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
+  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","Microsoft YaHei","STHeiti", "Helvetica","Arial","Verdana","sans-serif";
   line-height: 1.7;
   word-wrap: break-word; }
   .entry-content ol,
@@ -831,7 +836,7 @@ Footer
     border-left: 4px solid #aaa; }
   .entry-content p img {
     display: block;
-    margin: 100 auto; }
+    margin: 0 auto; }
   .entry-content a:link {
     color: #3769c9; }
   .entry-content a:visited {
