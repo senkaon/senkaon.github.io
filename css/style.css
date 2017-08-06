@@ -267,9 +267,7 @@ h6 {
   margin: 1.5em 0 1em; }
 
 p {
-  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", "Verdana", Arial, sans-serif;
   font-size: 14px;
-  letter-spacing: 0.15em;
   color: #333;
   margin: 1em 0;
   line-height: 28px; }
@@ -821,9 +819,10 @@ Footer
     z-index: 29; }
 
 .entry-content {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","Microsoft YaHei","STHeiti", "Helvetica","Arial","Verdana","sans-serif";
+  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif", "Microsoft YaHei";
   line-height: 1.7;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  letter-spacing: 1px; }
   .entry-content ol,
   .entry-content ul {
     margin: 0 0 1.5em 3em; }
