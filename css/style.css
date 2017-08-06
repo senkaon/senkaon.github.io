@@ -822,7 +822,7 @@ Footer
   font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif", "Microsoft YaHei";
   line-height: 1.7;
   word-wrap: break-word;
-  letter-spacing: 1px; }
+  letter-spacing: 0.05em; }
   .entry-content ol,
   .entry-content ul {
     margin: 0 0 1.5em 3em; }
