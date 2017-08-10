@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-10T17:55:03.049Z</updated>
+  <updated>2017-08-10T17:55:43.747Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/08/10/%E5%85%B3%E4%BA%8E%E6%84%89%E5%BF%AB%E5%9C%B0%E5%96%9D%E5%95%A4%E9%85%92/"/>
     <id>http://yoursite.com/2017/08/10/关于愉快地喝啤酒/</id>
     <published>2017-08-10T15:52:36.000Z</published>
-    <updated>2017-08-10T17:55:03.049Z</updated>
+    <updated>2017-08-10T17:55:43.747Z</updated>
     
     <content type="html"><![CDATA[<p>这两天终于读了陀思妥耶夫斯基。</p>
 <p>最喜欢《罪与罚》的片段是侦查科长对主人公心理分析式的破案过程，我简直把史上最伟大的小说读回了仅追求刺激感的侦探片子。虽然可能成为《罪与罚》最肤浅的一种解读，但其他的犯罪小说也又确实都缺少着这样完美且流畅，对双方都充满尊重且又紧扣人心的破案过程。</p>
@@ -46,9 +46,9 @@
     </summary>
     
     
-      <category term="深夜食堂" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/"/>
-    
       <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="深夜食堂" scheme="http://yoursite.com/tags/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/"/>
     
   </entry>
   
