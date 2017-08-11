@@ -272,10 +272,6 @@ p {
   margin: 1em 0;
   line-height: 28px; }
 
-p::selection {
-  background: #b2d7fe;
-  text-decoration: underline; }
-
 b,
 strong {
   font-weight: bold; }
@@ -553,7 +549,7 @@ Content
   text-align: center;
   margin-bottom: 27px;
   font-weight: 700;
-  font-size: 1.25em; }
+  font-size: 1.3em; }
   .entry-title a {
     color: #000;
     font-weight: 700;
@@ -819,10 +815,13 @@ Footer
     z-index: 29; }
 
 .entry-content {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif", "Microsoft YaHei";
+  font-family: -apple-system, BlinkMacSystemFont,"Verdana","Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","sans-serif", "Microsoft YaHei";
   line-height: 1.7;
   word-wrap: break-word;
   letter-spacing: 0.05em; }
+  .entry-content ::selection {
+    background: #b2d7fe;
+    text-decoration: underline; }
   .entry-content ol,
   .entry-content ul {
     margin: 0 0 1.5em 3em; }
