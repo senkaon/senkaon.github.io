@@ -645,7 +645,7 @@ Content
 
 /* line 323, themes/Daily/source/css/_daily.scss */
 .entry-title {
-  font-family: -apple-system, BlinkMacSystemFont,"Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","Verdana","sans-serif","Microsoft YaHei";
+  font-family: -apple-system, BlinkMacSystemFont,"Verdana","Helvetica Neue","PingFang-SC-Regular","STHeiti", "Helvetica","Arial","sans-serif","Microsoft YaHei";
   letter-spacing: 0.2em;
   color: #000;
   text-align: center;
@@ -751,8 +751,8 @@ Content
 Comment
 --------------------------------------------------------------*/
 /* line 424, themes/Daily/source/css/_daily.scss */
-.comment {
-  margin-top: 70px; }
+#comment {
+  margin-top: 100px; }
 
 /*--------------------------------------------------------------
 Footer
